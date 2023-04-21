@@ -7,4 +7,4 @@ Calculadora_Java
 
 ![image](https://user-images.githubusercontent.com/114995774/233631584-a29cd25a-b578-4fb5-a524-552ba2b82328.png)
 
-![image](https://user-images.githubusercontent.com/114995774/233631678-4810ce81-1acd-4db2-abd4-d88942727be9.png)
+![image](https://user-images.githubusercontent.com/114995774/233648747-b5442710-8837-46f2-b089-7a8352bcb1f7.png)
